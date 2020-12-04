@@ -9,7 +9,6 @@ Towards More Accurate Iris Recognition Using Deeply Learned Spatially Correspond
 This project is organized as follows:
 * dataset: contains the training data, validation data and test data.
 * reference: contains the reference materials.
-* report: contains the LaTex files of the project report.
 * snapshots: for saving model weights.
 * static: contains the pretrained model (MaskNet) and so on.
 * data.py: for constructing the data generator.
